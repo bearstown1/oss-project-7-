@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\54dddea28b43c253dedbb11c781c2986\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88a51e5f1c95b39f66b96a30a4e638d2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\94d82eb6ab5607eff68407163508deb8\AndroidManifest.xml:2:1-11:12
@@ -35,25 +35,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\user\.gradle\cach
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\519cf34fce937ca10429ab215c2bba70\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0740490d19e88406ce9d7b775b5a67b4\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\21d4ad9f6c2f5901efa53c2cfa070491\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:3:5-55
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\54dddea28b43c253dedbb11c781c2986\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\54dddea28b43c253dedbb11c781c2986\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\94d82eb6ab5607eff68407163508deb8\AndroidManifest.xml:9:5-20
@@ -65,41 +65,41 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.grad
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6944f09b4f2aaa65c5bfc456eaea6d9e\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:11:9-40
 activity#sunmoonuniv.opensource.offender_location.menu2Activity
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:12:9-60
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:12:9-60
 	android:name
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:12:19-48
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:12:19-48
 activity#sunmoonuniv.opensource.offender_location.MainActivity
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:13:9-21:20
 	android:label
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:15:13-45
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:15:13-45
 	android:name
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\54dddea28b43c253dedbb11c781c2986\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\54dddea28b43c253dedbb11c781c2986\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88a51e5f1c95b39f66b96a30a4e638d2\AndroidManifest.xml:20:5-44
@@ -162,13 +162,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.gradle\c
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0740490d19e88406ce9d7b775b5a67b4\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\21d4ad9f6c2f5901efa53c2cfa070491\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\21d4ad9f6c2f5901efa53c2cfa070491\AndroidManifest.xml:20:5-44
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		ADDED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
-		INJECTED from C:\kbs oss2\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\kimbyongsoo\offender_location\app\src\main\AndroidManifest.xml
