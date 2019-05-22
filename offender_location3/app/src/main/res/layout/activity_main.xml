@@ -48,6 +48,7 @@
         android:layout_width="290dp"
         android:layout_height="44dp"
         android:ems="10"
+        android:hint="휴대폰 번호를 입력하세요"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
