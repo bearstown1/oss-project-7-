@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5d48d318cce1f4b998e02cd75db74b40\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a04864206575792f63b28406f4b8f1a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\d9063e98ece2c7b0a10d998cb74058e4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\3d25405b845b2062a74d31e7153edf7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\b0bece889c592c4eb998398972892911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\fc186cec200d5640951d865bb769a663\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\c727fcba6785e7c3f7f24d12012f6cf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\9d88a73b162256cb497e9644a9632cc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\69c65b44c39c5e4d1052cd71e8c89637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\984b55b946cc5464e6ee5e70b4d68017\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a4482532d70d1cd28541dd70a2ee55f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\75bc13f1819f9338c19a1c9aefa8a021\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\324701d7955bd3a33eb3a851ad6a3310\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\240baa5a9d13df379a35e357a589fe52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5cec2a390dd26192d8b85921f9568ed9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\62ae9c496abdb864ce4e9d0db1006125\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\4f4d67f2f037ecb67dabfbffd595437e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e7b6df4ccc26551f51ac09bbed9d8f19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\95bbc3b6402c46c02e745ce6c1f02c7f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e695574a7f09e9902bfdbbcab81de7d5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\1eb175f40bd33ae64d3d34d655231e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\7baf31cb23a7de7837937216a6467384\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\2f0d01565a7d2638aae52cf5c06c50e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\3fdf04e7978e919a4f02342e50cd7859\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\6f4ebc94c88101f9f4caef286ebc7a8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a622194c2071ac669c360ddd75805807\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\9c5173f6a7fa50623ed572fb980fbd29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\1d5ac6b7937cd66d8973b3dde31a8fbc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\4468e61f4ae776fb7abeb28c9d3c74cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\514f5a6a7c93238cad36a8536b13e169\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\c4aced426b5641029fa6ad90591c98cf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5d48d318cce1f4b998e02cd75db74b40\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5d48d318cce1f4b998e02cd75db74b40\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\d9063e98ece2c7b0a10d998cb74058e4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\d9063e98ece2c7b0a10d998cb74058e4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\95bbc3b6402c46c02e745ce6c1f02c7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\95bbc3b6402c46c02e745ce6c1f02c7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e695574a7f09e9902bfdbbcab81de7d5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e695574a7f09e9902bfdbbcab81de7d5\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\95bbc3b6402c46c02e745ce6c1f02c7f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.offender_location5.SignUpActivity
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:12:19-49
+activity#com.example.offender_location5.MenuActivity
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:13:9-15:59
+	android:label
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:14:13-41
+activity#com.example.offender_location5.MainActivity
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5d48d318cce1f4b998e02cd75db74b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5d48d318cce1f4b998e02cd75db74b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a04864206575792f63b28406f4b8f1a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a04864206575792f63b28406f4b8f1a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\d9063e98ece2c7b0a10d998cb74058e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\d9063e98ece2c7b0a10d998cb74058e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\3d25405b845b2062a74d31e7153edf7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\3d25405b845b2062a74d31e7153edf7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\b0bece889c592c4eb998398972892911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\b0bece889c592c4eb998398972892911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\fc186cec200d5640951d865bb769a663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\fc186cec200d5640951d865bb769a663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\c727fcba6785e7c3f7f24d12012f6cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\c727fcba6785e7c3f7f24d12012f6cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\9d88a73b162256cb497e9644a9632cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\9d88a73b162256cb497e9644a9632cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\69c65b44c39c5e4d1052cd71e8c89637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\69c65b44c39c5e4d1052cd71e8c89637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\984b55b946cc5464e6ee5e70b4d68017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\984b55b946cc5464e6ee5e70b4d68017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a4482532d70d1cd28541dd70a2ee55f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a4482532d70d1cd28541dd70a2ee55f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\75bc13f1819f9338c19a1c9aefa8a021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\75bc13f1819f9338c19a1c9aefa8a021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\324701d7955bd3a33eb3a851ad6a3310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\324701d7955bd3a33eb3a851ad6a3310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\240baa5a9d13df379a35e357a589fe52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\240baa5a9d13df379a35e357a589fe52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5cec2a390dd26192d8b85921f9568ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\5cec2a390dd26192d8b85921f9568ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\62ae9c496abdb864ce4e9d0db1006125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\62ae9c496abdb864ce4e9d0db1006125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\4f4d67f2f037ecb67dabfbffd595437e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\4f4d67f2f037ecb67dabfbffd595437e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e7b6df4ccc26551f51ac09bbed9d8f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e7b6df4ccc26551f51ac09bbed9d8f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\95bbc3b6402c46c02e745ce6c1f02c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\95bbc3b6402c46c02e745ce6c1f02c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e695574a7f09e9902bfdbbcab81de7d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\e695574a7f09e9902bfdbbcab81de7d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\1eb175f40bd33ae64d3d34d655231e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\1eb175f40bd33ae64d3d34d655231e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\7baf31cb23a7de7837937216a6467384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\7baf31cb23a7de7837937216a6467384\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\2f0d01565a7d2638aae52cf5c06c50e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\2f0d01565a7d2638aae52cf5c06c50e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\3fdf04e7978e919a4f02342e50cd7859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\3fdf04e7978e919a4f02342e50cd7859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\6f4ebc94c88101f9f4caef286ebc7a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\6f4ebc94c88101f9f4caef286ebc7a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a622194c2071ac669c360ddd75805807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\a622194c2071ac669c360ddd75805807\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\9c5173f6a7fa50623ed572fb980fbd29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\9c5173f6a7fa50623ed572fb980fbd29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\1d5ac6b7937cd66d8973b3dde31a8fbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\1d5ac6b7937cd66d8973b3dde31a8fbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\4468e61f4ae776fb7abeb28c9d3c74cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\4468e61f4ae776fb7abeb28c9d3c74cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\514f5a6a7c93238cad36a8536b13e169\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\514f5a6a7c93238cad36a8536b13e169\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\c4aced426b5641029fa6ad90591c98cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\juvi9\.gradle\caches\transforms-2\files-2.1\c4aced426b5641029fa6ad90591c98cf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juvi9\Desktop\offender_location5\app\src\main\AndroidManifest.xml
