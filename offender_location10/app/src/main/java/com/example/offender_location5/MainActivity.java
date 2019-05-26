@@ -2,7 +2,6 @@ package com.example.offender_location5;
 
 
 import android.content.Intent;
-import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -25,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button button3 = (Button)findViewById(R.id.button3);
-        button3.setOnClickListener(new View.OnClickListener() {
+        Button savebutton = (Button)findViewById(R.id.savebutton);
+        savebutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), SignUpActivity.class);
