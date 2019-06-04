@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    @Override
+  /*  @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
@@ -46,5 +46,5 @@ public class MainActivity extends AppCompatActivity {
             String name = data.getStringExtra("name");
             Toast.makeText(getApplicationContext(),"로그인화면으로 이동합니다" + name,Toast.LENGTH_LONG).show();
         }
-    }
+    } */
 }
